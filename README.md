@@ -1,8 +1,11 @@
-# Site Responsivo: Explorando as Bases do Desenvolvimento Web
+# Card Responsivo: Explorando as Bases do Desenvolvimento Web
+
+![Banner do Projeto](https://live.staticflickr.com/65535/53143736704_a912463a58_b.jpg)
+
 
 ## Introdução
 
-Bem-vindo(a) ao repositório **SiteResponsivoCleanCode**, um espaço onde a simplicidade, praticidade e códigos limpos se unem para criar um site responsivo incrível. Se você está interessado(a) em descobrir como criar um site responsivo do zero, de forma elegante e eficaz, você está prestes a embarcar em uma jornada emocionante!
+Bem-vindo(a) ao repositório **Card Responsivo - CleanCode**, um espaço onde a simplicidade, praticidade e códigos limpos se unem para criar um site responsivo incrível. Se você está interessado(a) em descobrir como criar um site responsivo do zero, de forma elegante e eficaz, você está prestes a embarcar em uma jornada emocionante!
 
 ## Sobre o Projeto
 
@@ -33,9 +36,9 @@ Este projeto foi inspirado nas aulas do talentoso Prof/Youtuber Florin Pop. Apro
 
 Sinta-se à vontade para explorar os arquivos e pastas deste repositório para entender como criei o site responsivo. Você pode examinar o código, experimentar os efeitos e adaptá-los ao seu próprio aprendizado.
 
-## Contribua
+## Video do Projeto
 
-Se você tem sugestões para melhorias ou deseja compartilhar suas próprias explorações no desenvolvimento web, sinta-se à vontade para contribuir! Basta fazer um fork deste repositório, adicionar suas contribuições e enviar um pull request.
+[Assista ao vídeo do projeto](https://youtu.be/uInT0aPNh1A)
 
 ## Contato
 
